@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edgar Huémac</h1>
 <h3 align="center">A cybersecurity specialist and ethical hacker. Also an experienced software developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edgarhuemac" alt="edgarhuemac" /></a> </p>
-
 - 🔭 I’m currently working as a **Sr. Penetration Tester**
 
 - 🌱 I’m currently learning **ethical malware & exploit development**
