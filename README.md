@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/..." width="120" height="120" style="border-radius: 50%;">
+<img src="https://avatars.githubusercontent.com/u/55171087?v=4" width="120" height="120" style="border-radius: 50%;">
 
 # Edgar Huémac
 
