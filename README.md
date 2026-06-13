@@ -14,10 +14,10 @@
 
 ### Hello, I'm Edgar Huémac.
 
-Computational Systems Engineer. I (try to) break things for a living — web apps, networks, cloud environments, APIs, etc.
+Computational Systems Engineer & pentester. I (try to) break things (ethically) for a living.
 
 Currently **Sr. Penetration Tester**.
-My portafolio website is at huemac.onrender.com
+My portafolio website is at [edgarhuemac.com](https://www.edgarhuemac.com)
 
 **120+** engagements | **80+** credentials earned | Always learning.
 
@@ -45,10 +45,13 @@ My portafolio website is at huemac.onrender.com
 
 ### Featured Projects
 
+- **[glyph](https://github.com/EdgarHuemac/glyph)** — A terminal encoding & decoding swiss knife.
 - **[NimRecon](https://github.com/EdgarHuemac/NimRecon)** — Nim binary analyzer for malware triage
 - **[PCI Leak Scanner](https://github.com/EdgarHuemac/pci_leak_scanner)** — Detects card data & credentials in logs/code
 - **[CVSS Stats Tool](https://github.com/EdgarHuemac/cvss_stats_tool)** — Quick analytics for vulnerability scoring
-- **[NetWatch-](https://github.com/EdgarHuemac/NetWatch-)** — Lightweight network monitoring
+- **[NetWatch-](https://github.com/EdgarHuemac/NetWatch-)** — Lightweight network monitoring tool
+- **[cvs_to_markmap](https://github.com/EdgarHuemac/cvs_to_markmap)** — tool to convert a CSV file into Markmap markdown syntax.
+- **[kairos entanglement cipher](https://github.com/edgarhuemac/kec)** — experimental cipher based on complex systems equations. 
 
 More coming soon.
 
