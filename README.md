@@ -14,7 +14,7 @@
 
 ### Hello there,
 
-I'm a computational systems engineer and currently a **Sr. Penetration Tester** where I (try to) break things (ethically) for a living. If you want to know more, visit my portafolio at [edgarhuemac.com](https://www.edgarhuemac.com)
+I'm a computational systems engineer, and currently a **Sr. Penetration Tester** I (try to) break things (ethically) for a living. If you want to know more, visit my portafolio at [edgarhuemac.com](https://www.edgarhuemac.com)
 
 
 ---
