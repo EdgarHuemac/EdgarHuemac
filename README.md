@@ -29,7 +29,7 @@ I'm a computational systems engineer and currently a **Sr. Penetration Tester** 
 - vulnerability research & CTFs sometimes.
 - processing, robotics & embeded systems enthusiast.
 
-If you want to know more about my skills, arsenal, methodologies or tooling that I use, visit [https://www.edgarhuemac.com/#skills](https://www.edgarhuemac.com/#skills). I also have some certifications and credentials that you can [check here](https://www.edgarhuemac.com/#credentials): 
+If you want to know more about my skills, arsenal, methodologies or tooling that I use, visit [https://www.edgarhuemac.com/#skills](https://www.edgarhuemac.com/#skills). I also have some certifications and credentials that you can [check here](https://www.edgarhuemac.com/#credentials).
 
 ---
 
