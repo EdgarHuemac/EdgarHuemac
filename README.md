@@ -12,34 +12,24 @@
 
 ---
 
-### Hello, I'm Edgar Huémac.
+### Hello there,
 
-Computational Systems Engineer & pentester. I (try to) break things (ethically) for a living.
+I'm a computational systems engineer and currently a **Sr. Penetration Tester** where I (try to) break things (ethically) for a living. If you want to know more, visit my portafolio at [edgarhuemac.com](https://www.edgarhuemac.com)
 
-Currently **Sr. Penetration Tester**.
-My portafolio website is at [edgarhuemac.com](https://www.edgarhuemac.com)
-
-**120+** engagements | **80+** credentials earned | Always learning.
 
 ---
 
 ### What I do
 
-- Full-scope pentests (PTES, OSSTMM, OWASP, NIST)
-- Red Team operations & TTP emulation
-- Active Directory & Cloud attacks
-- Custom tooling & (ethical) malware development (Nim, C/C#, Python)
-- AppSec: SAST/DAST/SCA, secure code review
-- Vulnerability research & CTFs sometimes
-- Robotics, processing & embeded systems enthusiast
+- full-scope pentesting based on OWASP, PTES, OSSTMM & NIST.
+- red team operations & TTP emulation (MITRE ATT&CK).
+- application security auditing (SAST, DAST, SCA).
+- compliance evaluations (PCI, SOC2, HIPAA, GDPR).
+- custom tooling & (ethical) malware development.
+- vulnerability research & CTFs sometimes.
+- processing, robotics & embeded systems enthusiast.
 
----
-
-### Skills & Arsenal
-
-**Languages** — Python • Nim • JavaScript • C/C++ • C# • Bash • PowerShell
-
-**Core Tools** — Burp • Metasploit • Cobalt Strike • Sliver • Impacket • BloodHound • Hashcat • Nmap • and way too many others.
+If you want to know more about my skills, arsenal, methodologies or tooling that I use, visit [https://www.edgarhuemac.com/#skills](https://www.edgarhuemac.com/#skills). I also have some certifications and credentials that you can [check here](https://www.edgarhuemac.com/#credentials): 
 
 ---
 
@@ -58,10 +48,8 @@ More coming soon.
 
 ---
 
-### Beyond the terminal
-
-Reading • Cycling • Tea culture • Piano • Hiking (new in 2026)  
-Fluent in English (TOEFL C1) & French (DELF B2) • Beginner Japanese
+### Beyond computers
+I enjoy reading, cycling, tea culture, piano and hiking. I speak spanish natively, I'm fluent in English ([TOEFL C1 certified](https://huemac.onrender.com/creds/pdfs/TOEFL.pdf)) & French ([DELF B2 certified](https://huemac.onrender.com/creds/pdfs/DELF-B2.pdf)), and I'm a Japanese beginner.
 
 ---
 
