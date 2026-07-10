@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/55171087?v=4" width="120" height="120" style="border-radius: 50%;">
-
 # Edgar Huémac
 
 **Penetration Tester & Cybersecurity Engineer**
@@ -42,7 +40,8 @@ If you want to know more about my skills, arsenal, methodologies or tooling that
 - **[NetWatch-](https://github.com/EdgarHuemac/NetWatch-)** — lightweight network monitoring tool
 - **[cvs_to_markmap](https://github.com/EdgarHuemac/cvs_to_markmap)** — tool to convert a CSV file into Markmap markdown syntax.
 - **[kairos entanglement cipher](https://github.com/edgarhuemac/kec)** — experimental cipher based on complex systems equations.
-- **[imgmeta.sh](https://github.com/EdgarHuemac/imgmeta.sh)** — small bash wrapper for ExifTool. 
+- **[imgmeta.sh](https://github.com/EdgarHuemac/imgmeta.sh)** — small bash wrapper for ExifTool.
+- **[cookiefy](https://github.com/EdgarHuemac/cookiefy)** — bash cookie extractor & manipulator for web pentesting.
 
 More coming soon.
 
