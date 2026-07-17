@@ -42,6 +42,7 @@ If you want to know more about my skills, arsenal, methodologies or tooling that
 - **[kairos entanglement cipher](https://github.com/edgarhuemac/kec)** — experimental cipher based on complex systems equations.
 - **[imgmeta.sh](https://github.com/EdgarHuemac/imgmeta.sh)** — small bash wrapper for ExifTool.
 - **[cookiefy](https://github.com/EdgarHuemac/cookiefy)** — bash cookie extractor & manipulator for web pentesting.
+- **[remembr](https://github.com/EdgarHuemac/remembr)** — clipboard + shell history logger for pentesting sessions.
 
 More coming soon.
 
