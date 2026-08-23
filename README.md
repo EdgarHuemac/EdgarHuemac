@@ -45,7 +45,6 @@ If you want to know more about my skills, arsenal, methodologies or tooling that
 - **[remembr](https://github.com/EdgarHuemac/remembr)** — clipboard + shell history logger for pentesting sessions
 - **[kill-chain-vault](https://github.com/EdgarHuemac/kill-chain-vault)** — kill-chain graph visualizer for cyberattack timelines.
 
-- kill-chain graph visualizer for cyberattack timelines.
 
 More coming soon.
 
