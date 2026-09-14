@@ -52,7 +52,7 @@ More coming soon.
 ---
 
 ### Beyond computers
-I enjoy reading, cycling, tea culture, piano and hiking. I speak spanish natively, I'm fluent in English ([TOEFL C1 certified](https://huemac.onrender.com/creds/pdfs/TOEFL.pdf)) & French ([DELF B2 certified](https://huemac.onrender.com/creds/pdfs/DELF-B2.pdf)), and I'm a Japanese beginner.
+I enjoy reading, cycling, tea culture, piano and hiking. I speak spanish natively, I'm fluent in English ([TOEFL C1 certified](https://edgarhuemac.com/creds/pdfs/TOEFL.pdf)) & French ([DELF B2 certified](https://edgarhuemac.com/creds/pdfs/DELF-B2.pdf)), and I'm a Japanese beginner.
 
 ---
 
