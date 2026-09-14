@@ -44,6 +44,7 @@ If you want to know more about my skills, arsenal, methodologies or tooling that
 - **[cookiefy](https://github.com/EdgarHuemac/cookiefy)** — bash cookie extractor & manipulator for web pentesting.
 - **[remembr](https://github.com/EdgarHuemac/remembr)** — clipboard + shell history logger for pentesting sessions
 - **[kill-chain-vault](https://github.com/EdgarHuemac/kill-chain-vault)** — kill-chain graph visualizer for cyberattack timelines.
+- **[KEVlar](https://github.com/EdgarHuemac/KEVlar)** — CISA KEV threat intelligence & alerting engine.
 
 
 More coming soon.
