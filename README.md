@@ -4,7 +4,6 @@
 
 **Penetration Tester & Cybersecurity Engineer**
 
-*Offensive Security | Red Teaming | Malware Development*
 
 </div>
 
@@ -23,9 +22,10 @@ I'm a computational systems engineer, and currently a **Sr. Penetration Tester**
 - red team operations & TTP emulation (MITRE ATT&CK).
 - application security auditing (SAST, DAST, SCA).
 - compliance evaluations (PCI, SOC2, HIPAA, GDPR).
-- custom tooling & (ethical) malware development.
-- vulnerability research & CTFs sometimes.
+- custom tooling & (ethical) malware research & development.
+- vulnerability research & CTFs challenges.
 - processing, robotics & embeded systems enthusiast.
+- full stack development sometimes
 
 If you want to know more about my skills, arsenal, methodologies or tooling that I use, visit [https://www.edgarhuemac.com/#skills](https://www.edgarhuemac.com/#skills). I also have some certifications and credentials that you can [check here](https://www.edgarhuemac.com/#credentials).
 
@@ -45,6 +45,7 @@ If you want to know more about my skills, arsenal, methodologies or tooling that
 - **[remembr](https://github.com/EdgarHuemac/remembr)** — clipboard + shell history logger for pentesting sessions
 - **[kill-chain-vault](https://github.com/EdgarHuemac/kill-chain-vault)** — kill-chain graph visualizer for cyberattack timelines.
 - **[KEVlar](https://github.com/EdgarHuemac/KEVlar)** — CISA KEV threat intelligence & alerting engine.
+- **[forma](https://github.com/EdgarHuemac/forma)** — small web app to turn letters as shapes (not related to infosec).
 
 
 More coming soon.
